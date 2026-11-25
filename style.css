@@ -1,1 +1,13 @@
+:root {
+  --color-bg: #000000;
+  --color-red: #FF4D3D;
+  --color-red-87: rgba(255, 77, 61, 0.87); /* mobile headings and labels */
+  --color-white: #FFFFFF;
+  --color-divider: rgba(255, 255, 255, 0.5);
+  --color-bio: #808080;
+  --color-secondary: #888888;
 
+  --font-heading: "Barlow Condensed", sans-serif;
+  --font-logo: "Barlow", sans-serif;
+  --font-body: "Inter", sans-serif;
+}
